@@ -1,0 +1,7 @@
+site_name: Cribster
+theme:
+  name: material
+  palette:
+    scheme: preference
+  icon:
+    logo: fontawesome/solid/chalkboard-teacher
